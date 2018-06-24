@@ -4,7 +4,7 @@
 
 **[Visit Project](https://jeffryhermanto.github.io/ToDoList/)**
 
-![ToDoList](http://jhproject.id/img/portfolio/ToDoList.png)
+![ToDoList](http://jhproject.id/images/portfolio/ToDoList.png)
 
 #### Jeffry Hermanto _jeffryhermanto@gmail.com_
 
